@@ -1,13 +1,13 @@
-# MAD204-LAB01-IshmeetSingh
+# MAD204-LAB01-IshmeetSingh 
 MAD204 Lab 1 — Gradebook &amp; Utilities — Ishmeet Singh (A00202436)
 
-# MAD204 - Lab 1: Gradebook & Utilities App
+# MAD204 - Lab 1: Gradebook & Utilities App 
 
 **Name:** Ishmeet Singh  
 **Student ID:** A00202436  
 **Course:** MAD204 - Java Development for MA  
 
-## Description
+## Description 
 A Java console application that:
 - Adds students and their grades
 - Computes averages and letter grades
